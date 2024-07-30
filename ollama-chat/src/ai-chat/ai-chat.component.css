@@ -1,0 +1,9 @@
+.chat-container {
+    text-align: center;
+  }
+  
+  mat-spinner {
+    display: block;
+    margin: 20px auto;
+  }
+  
